@@ -1,3 +1,8 @@
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/c97f0092-0e23-44c7-aad3-202897e83e06" />
+
+
+
+
 # 🎧 Music Streaming Data Analytics (SQL Project)
 
 This project simulates a **music streaming platform** with a structured PostgreSQL database. It analyzes user listening behavior, popular tracks, artists, and engagement metrics using real-world SQL queries.
